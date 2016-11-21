@@ -5,13 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.baron</groupId>
-    <artifactId>jdk</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <artifactId>JDK</artifactId>
+    <version>0.01</version>
 
-    <dependencies>
-        <dependency>
-            <groupId></groupId>
-            <artifactId></artifactId>
-        </dependency>
-    </dependencies>
+
 </project>
